@@ -1,2 +1,3 @@
 # proyecto_test_A_B
-Verificar un test A_B inconcluso
+Verificar un test A_B inconcluso.
+Se cuenta con 4 datasets correspondientes a una tienda online; en donde se realizó un test A/B inconcluso. Se buscaba que en cada etapa del embudo product_page → product_card → purchase, hubiera al menos un 10% de aumento. De modo que el objetivo de este proyecto es analizar la data, y verificar si la prueba A/B se realizó correctamente; analizando sus resultados.
